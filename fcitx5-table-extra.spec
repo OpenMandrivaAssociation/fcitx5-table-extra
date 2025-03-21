@@ -8,6 +8,7 @@ License:	GPL-3.0+
 Group:		Graphical desktop/KDE
 BuildRequires:	cmake
 BuildRequires:	cmake(LibIMETable)
+BuildRequires:	cmake(ECM)
 BuildSystem:	cmake
 BuildArch:	noarch
 
