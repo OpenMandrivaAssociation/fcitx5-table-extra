@@ -9,6 +9,7 @@ Group:		Graphical desktop/KDE
 BuildRequires:	cmake
 BuildRequires:	cmake(LibIMETable)
 BuildRequires:	cmake(ECM)
+BuildRequires:	gettext
 BuildSystem:	cmake
 BuildArch:	noarch
 
