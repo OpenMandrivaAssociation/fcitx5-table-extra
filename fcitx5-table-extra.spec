@@ -10,6 +10,7 @@ BuildRequires:	cmake
 BuildRequires:	cmake(LibIMETable)
 BuildRequires:	cmake(ECM)
 BuildRequires:	gettext
+BuildRequires:	boost-devel
 BuildSystem:	cmake
 BuildArch:	noarch
 
